@@ -41,3 +41,11 @@ right: 200px;
       font-family: monospace;
       font-size: 50px;
   }
+
+  #footer{
+
+    width: 100%;
+    background-color:rgb(216, 215, 215);
+    text-align: center;
+
+}
